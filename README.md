@@ -28,12 +28,10 @@ The script `src/load_data.py` handles **formatting raw sources into this schema*
 ## 🔍 Included Datasets
 
 - **ASR dataset (Netherlands):** Real EV charging sessions from the a.s.r. living lab of the SmoothEMS met GridShield project.  
-  **Reference:**  
-  de Bont, Kevin; Hoogsteen, Gerwin; Hurink, Johann; Kokhuis, Richard; Kusche, Fabian et. al. (2025): Electric Vehicle Charging Session Data of Large Office Parking Lot . Version 2. 4TU.ResearchData. dataset. https://doi.org/10.4121/80ef3824-3f5d-4e45-8794-3b8791efbd13.v2
+  **Reference:** de Bont, Kevin; Hoogsteen, Gerwin; Hurink, Johann; Kokhuis, Richard; Kusche, Fabian et. al. (2025): Electric Vehicle Charging Session Data of Large Office Parking Lot . Version 2. 4TU.ResearchData. dataset. https://doi.org/10.4121/80ef3824-3f5d-4e45-8794-3b8791efbd13.v2
 
 - **ACN-Data (Caltech & JPL campuses):** A well-known public workplace EV charging dataset with three different fields and over 30,000 sessions.
-  **Reference:**  
-  Zachary J. Lee, Tongxin Li, and Steven H. Low. 2019. ACN-Data: Analysis and Applications of an Open EV Charging Dataset. In Proceedings of the Tenth ACM International Conference on Future Energy Systems (e-Energy '19). Association for Computing Machinery, New York, NY, USA, 139–149. https://doi.org/10.1145/3307772.3328313
+  **Reference:** Zachary J. Lee, Tongxin Li, and Steven H. Low. 2019. ACN-Data: Analysis and Applications of an Open EV Charging Dataset. In Proceedings of the Tenth ACM International Conference on Future Energy Systems (e-Energy '19). Association for Computing Machinery, New York, NY, USA, 139–149. https://doi.org/10.1145/3307772.3328313
 
 ---
 
