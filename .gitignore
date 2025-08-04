@@ -1,0 +1,19 @@
+data
+log/*
+workspace.ipynb
+.acn_api_token
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
